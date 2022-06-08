@@ -24,3 +24,6 @@ Meu nome é Letícia e sou produta de conteúdo. Gosto muito de desenvolvimento 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BonecoDeTeste&theme=dracula&rank=C,B,A,AA,AAA,S&margin-w=15&column=2)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
+
+## Me encontre
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/company/cod3r)
