@@ -15,3 +15,12 @@ Meu nome é Letícia e sou produta de conteúdo. Gosto muito de desenvolvimento 
 
 ## ⭐ Tecnologias que já tive contato ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" />
+
+## Status
+<div align="center">
+  
+[![Status do perfil do boneco de teste](https://github-readme-stats.vercel.app/api?username=BonecoDeTeste&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BonecoDeTeste&theme=dracula&rank=C,B,A,AA,AAA,S&margin-w=15&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  </div>
