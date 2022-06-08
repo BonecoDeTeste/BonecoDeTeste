@@ -16,7 +16,7 @@ Meu nome é Letícia e sou produta de conteúdo. Gosto muito de desenvolvimento 
 ## ⭐ Tecnologias que já tive contato ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" />
 
-## Status
+## 📋 Status
 <div align="center">
   
 [![Status do perfil do boneco de teste](https://github-readme-stats.vercel.app/api?username=BonecoDeTeste&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,5 +25,5 @@ Meu nome é Letícia e sou produta de conteúdo. Gosto muito de desenvolvimento 
   
   </div>
 
-## Me encontre
+## 🔍 Me encontre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/company/cod3r)
